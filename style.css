@@ -1,0 +1,56 @@
+/**
+*@author : SENTHILKUMAR S;
+*@file : Style.css;
+*@date : created - 15-Oct-2016;
+*/
+body{
+	overflow-x: hidden;
+	background-color: #F3F3F3F3;
+}
+.logoImage{
+	width: 80px;
+	height: 80px;
+}
+.header{
+	display:block;
+}
+.upperHeader{
+	height: 30px;
+	padding: 5px;
+}
+.redbackground{
+	background-image: linear-gradient(#F60017,#F50016,#F90016) !important;
+}
+.searchicon{
+	
+}
+.postpic img{
+	width: 75px;
+    height: 75px;
+    border-radius: 100%;
+}
+.title{
+	font-size: 20px;
+	font-weight: bold;
+}
+.card-signup{
+	margin-top: 45px;
+}
+.adjustHeader{
+	padding: 14px !important;
+    margin-top: -30px !important;
+}
+.mt10{
+	margin-top: 10px;
+}
+.p20{
+	padding: 20px;
+}
+.footer_background{
+	background-image: url(images/clean.map.png);
+	background-color: rgba(246,0,23,0.2);
+	background-size: 100% 300px;
+}
+.p{
+	padding: 4px;
+}
